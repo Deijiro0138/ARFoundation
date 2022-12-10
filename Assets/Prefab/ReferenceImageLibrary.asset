@@ -16,12 +16,22 @@ MonoBehaviour:
   m_GuidHigh: 2323885323327176121
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5300349984816257128
-      m_GuidHigh: 8883673632139799708
+      m_GuidLow: 5607351591841116732
+      m_GuidHigh: 5065489735206813107
     m_SerializedTextureGuid:
       m_GuidLow: 3514086011866418535
       m_GuidHigh: 4121559823902497705
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
     m_Name: 0
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5383428907343052182
+      m_GuidHigh: 14919110476350317982
+    m_SerializedTextureGuid:
+      m_GuidLow: 16615008616783029889
+      m_GuidHigh: 12332527241202063417
+    m_Size: {x: 0.1, y: 0.13353115}
+    m_SpecifySize: 1
+    m_Name: yopparai_businessman
     m_Texture: {fileID: 0}
